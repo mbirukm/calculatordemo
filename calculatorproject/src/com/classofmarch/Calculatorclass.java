@@ -7,12 +7,7 @@ public class Calculatorclass {
 int a=10;
 int b=12;
 int c=15;
-<<<<<<< HEAD
 int d=40;		
-=======
-int d=40;
-		
->>>>>>> branch 'main' of https://github.com/mbirukm/calculatordemo.git
 int Sum =a+c+b+d;
 System.out.println(Sum);
 System.out.println("i added 4 numbers");
