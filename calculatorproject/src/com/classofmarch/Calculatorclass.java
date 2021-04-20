@@ -6,7 +6,8 @@ public class Calculatorclass {
 		// TODO Auto-generated method stub
 int a=10;
 int b=12;
-int Sum =a+b;
+int c=15;
+int Sum =a+c+b;
 System.out.println(Sum);
 	}
 
