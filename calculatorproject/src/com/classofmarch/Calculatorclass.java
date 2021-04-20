@@ -10,7 +10,7 @@ int c=15;
 int d=40;		
 int Sum =a+c+b+d;
 System.out.println(Sum);
-System.out.println("i added 4 numbers");
+System.out.println("i added 4 numbers successfully");
 	}
 
 }
