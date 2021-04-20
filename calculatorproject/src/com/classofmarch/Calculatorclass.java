@@ -7,7 +7,8 @@ public class Calculatorclass {
 int a=10;
 int b=12;
 int c=15;
-int Sum =a+c+b;
+int d=40		
+int Sum =a+c+b+d;
 System.out.println(Sum);
 	}
 
